@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manueladias
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning HTML5, CSS3 and JavaScript
 - 📫 Contact by email :manueladiaspinheiro130698@gmail.com
 
 <div align="center">
